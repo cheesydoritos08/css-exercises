@@ -12,6 +12,10 @@ img {
   font-weight: 900;
 }
 
+.big-container {
+  justify-content: space-between;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
@@ -24,3 +28,4 @@ img {
   justify-content: center;
   background: #eee;
 }
+
